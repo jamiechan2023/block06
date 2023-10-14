@@ -1,0 +1,28 @@
+.box {
+  margin: 10px;
+}
+
+.category {
+  margin: 10px;
+  border: 1px solid black;
+  padding-left: 10px;
+  background-color: rgb(246, 238, 229);
+  height: 60px;
+  width: 372px;
+}
+
+.subcategory {
+  display: inline-block;
+  background-color: rgba(94, 99, 103, 0.19);
+  height: 160px;
+  width: 160px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+.imginside {
+  display: inline-block;
+  padding: 20px;
+  width: 50%;
+  vertical-align: top;
+}
